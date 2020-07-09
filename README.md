@@ -1,7 +1,7 @@
-### Hello Universe ! 👋
+# Hello Universe !
 
-## Translating brain waves into a visual action in digital medium 👩‍💻
 ## Explore and Exploit 🤘
+### Translating brain waves into a visual action on digital medium 👩‍💻
 
 
 <!--
