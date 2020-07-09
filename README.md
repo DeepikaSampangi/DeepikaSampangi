@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello Universe ! 👋
+
+## Translating brain waves into a visual action in digital medium 👩‍💻
+## Explore and Exploit 🤘
+
 
 <!--
 **DeepikaSampangi/DeepikaSampangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
