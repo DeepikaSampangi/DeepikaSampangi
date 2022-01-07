@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 https://deepikasampangi.github.io
 
 ## &#x1f4c8; GitHub Stats
-
-<br/>
-![DeepikaS Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=deepikasampangi) 
+<br/><br/>
+ ![DeepikaS Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=deepikasampangi) 
 
