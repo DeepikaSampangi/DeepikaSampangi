@@ -1,6 +1,6 @@
 # Hello Universe !
 
-## Explore and Exploit 🤘
+## Explore, Experience and Live 🤘
 ### Translating brain waves into a visual action on digital medium 👩‍💻
 
 
