@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://deepikasampangi.github.io
 
 ## &#x1f4c8; GitHub Stats
 <br/><br/>
